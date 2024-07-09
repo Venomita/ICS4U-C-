@@ -1,0 +1,7 @@
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\bin\Debug\2.1lab.exe.config
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\bin\Debug\2.1lab.exe
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\bin\Debug\2.1lab.pdb
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\obj\Debug\2.1lab.csprojAssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\obj\Debug\2.1lab.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\obj\Debug\2.1lab.exe
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\unit 2 lab\2.1lab\2.1lab\obj\Debug\2.1lab.pdb

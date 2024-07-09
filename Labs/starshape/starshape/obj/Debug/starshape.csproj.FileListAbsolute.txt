@@ -1,0 +1,7 @@
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\bin\Debug\starshape.exe.config
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\bin\Debug\starshape.exe
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\bin\Debug\starshape.pdb
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\obj\Debug\starshape.csprojAssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\obj\Debug\starshape.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\obj\Debug\starshape.exe
+C:\Users\hamza\OneDrive\Desktop\C#\Labs\starshape\starshape\obj\Debug\starshape.pdb
